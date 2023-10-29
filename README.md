@@ -1,5 +1,5 @@
 # My Portfolio
-Check the Live Demo : https://porto-vue.herokuapp.com/
+Check the Live Demo : [https://mip-portofolio.netlify.app/]
 
 # Technologies Used
 - Vue.js
